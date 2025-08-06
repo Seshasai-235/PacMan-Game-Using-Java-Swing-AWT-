@@ -1,0 +1,33 @@
+# Compiled Java classes
+/bin/
+
+# IDE files
+*.class
+*.log
+*.tmp
+*.bak
+
+# Eclipse
+.metadata/
+.settings/
+*.classpath
+*.project
+
+# IntelliJ IDEA
+*.iml
+.idea/
+
+# NetBeans
+nbproject/private/
+build/
+nbbuild/
+
+# VS Code
+.vscode/
+
+# Package Files
+*.jar
+
+# Other
+.DS_Store
+Thumbs.db
