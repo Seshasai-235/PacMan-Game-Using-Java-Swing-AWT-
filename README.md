@@ -95,7 +95,6 @@ PacMan-Game-Using-Java-Swing-AWT-/
 ### Collectibles & Environment
 
 <p float="left">
-  <img src="assets/dot.png" width="30" alt="Pellet" />
   <img src="assets/powerFood.png" width="30" alt="Power Food" />
   <img src="assets/cherry.png" width="30" alt="Cherry" />
   <img src="assets/wall.png" width="30" alt="Wall Tile" />
