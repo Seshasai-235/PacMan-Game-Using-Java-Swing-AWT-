@@ -130,7 +130,7 @@ java -cp bin App
 ## 🎮 How to Play
 
 * **Controls**: Use the arrow keys to move Pac-Man.
-* **Objective**: Collect all pellets, avoid ghosts, and use energizers to turn the tables on frightened ghosts.
+* **Objective**: Collect all foods, avoid ghosts, and use energizers to turn the tables on frightened ghosts.
 
 ---
 
